@@ -5,8 +5,8 @@ export const projects = [
       "This site allows users to select a food they would like to order by the quantity and successfully add/remove items from the cart.",
     image: "/images/1.png",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://cranky-mccarthy-7e65ff.netlify.app/",
+    visit: "https://github.com/JLanier113/Food-Order-Site",
     id: 0,
   },
   {
@@ -15,8 +15,8 @@ export const projects = [
       "Users enter a Title, amount, and date of an expense they would like to log, which is then recorded and filtered by year. This also shows the user's logged expenses by month given a selected year.",
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://friendly-bhaskara-844b10.netlify.app/",
+    visit: "https://github.com/JLanier113/Expense-Tracker",
     id: 1,
   },
   {
@@ -25,8 +25,8 @@ export const projects = [
       "A simple To-Do list that lets users add/remove tasks. Error messages will appear if an invalid entry is attempted.",
     image: "/images/3.png",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://keen-montalcini-99fd9f.netlify.app/",
+    visit: "https://github.com/JLanier113/To-Do-List",
     id: 2,
   },
 ];
