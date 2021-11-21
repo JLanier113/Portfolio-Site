@@ -17,8 +17,9 @@ const Hero = () => (
         My Portfolio
       </SectionTitle>
       <SectionText>
-        After months of self-learning, I am looking to make a career switch and
-        get my first professional experience as a developer.
+        After months of self-learning and becoming a MERN fullstack developer, I
+        am looking to make a career change and am hungry for first professional
+        role as a devloper.
       </SectionText>
       <Button
         onClick={() => (window.location.href = "mailto:jarredlanier@live.com")}

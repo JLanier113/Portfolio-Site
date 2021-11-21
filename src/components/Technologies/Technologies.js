@@ -1,5 +1,5 @@
 import React from "react";
-import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import { DiMongodb, DiReact } from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -19,19 +19,24 @@ const Technologies = () => (
     <SectionDivider />
     <SectionTitle style={{ marginTop: 20 }}>Technologies</SectionTitle>
     <SectionText>
-      I have prioritized my focus on learning Front-End technologies such as
-      JavaScript and React.js.
+      After initially being a front-end developer only, I have since developed
+      working knowledge of the full MERN stack.
     </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
-          <ListParagraph>
-            Experienced with:
-            <br />
-            React.js | JavaScript
-          </ListParagraph>
+          <ListParagraph>React.js | JavaScript | Bootstrap</ListParagraph>
+        </ListContainer>
+      </ListItem>
+    </List>
+    <List>
+      <ListItem>
+        <DiMongodb size="3rem" />
+        <ListContainer>
+          <ListTitle>Back-end</ListTitle>
+          <ListParagraph>Express.js | Node.js | MongoDB</ListParagraph>
         </ListContainer>
       </ListItem>
     </List>
