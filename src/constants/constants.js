@@ -1,5 +1,22 @@
 export const projects = [
   {
+    title: "Restaurant Reviews",
+    description:
+      "This fullstack site provides a number of restaurants from a database and allows users to login and view the address and reviews of selected restaurants. They are also enabled to login and create/edit/delete their own reviews.",
+    image: "/images/4.png",
+    tags: [
+      "React",
+      "JavaScript",
+      "Bootstrap",
+      "MongoDB",
+      "Express.js",
+      "Node.js",
+    ],
+    source: "https://boring-einstein-0b34fc.netlify.app",
+    visit: "https://github.com/JLanier113/FS_Restaurant_Review_Site",
+    id: 0,
+  },
+  {
     title: "Food Ordering Site",
     description:
       "This site allows users to select a food they would like to order by the quantity and successfully add/remove items from the cart.",
