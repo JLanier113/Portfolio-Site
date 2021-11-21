@@ -18,8 +18,8 @@ const Hero = () => (
       </SectionTitle>
       <SectionText>
         After months of self-learning and becoming a MERN fullstack developer, I
-        am looking to make a career change and am hungry for first professional
-        role as a devloper.
+        am looking to make a career change and am hungry for my first
+        professional role as a devloper.
       </SectionText>
       <Button
         onClick={() => (window.location.href = "mailto:jarredlanier@live.com")}
